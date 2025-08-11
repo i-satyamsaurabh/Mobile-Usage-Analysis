@@ -116,35 +116,6 @@ Developed a rule-based classification system to categorize users into five behav
 2. **Digital Detox**: Implement regular breaks from device usage
 3. **App Management**: Regular cleanup of unused applications
 
-## 📁 Repository Structure
-
-```
-mobile-usage-analysis/
-│
-├── 📁 data/
-│   ├── raw/                    # Original dataset
-│   └── processed/              # Cleaned and processed data
-│
-├── 📁 notebooks/
-│   ├── 01_data_exploration.ipynb
-│   ├── 02_user_segmentation.ipynb
-│   └── 03_insights_analysis.ipynb
-│
-├── 📁 visualizations/
-│   ├── dashboard_screenshots/
-│   └── static_plots/
-│
-├── 📁 reports/
-│   └── Mobile_Usage_Analysis_Report.pdf
-│
-├── 📁 src/
-│   ├── data_preprocessing.py
-│   ├── segmentation_model.py
-│   └── visualization_utils.py
-│
-├── 📄 requirements.txt
-├── 📄 .gitignore
-└── 📄 README.md
 ```
 
 ## 🚀 Getting Started
