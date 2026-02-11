@@ -1,4 +1,4 @@
-# 📱 Mobile Usage & Behaviour Analysis
+# Mobile Usage & Behaviour Analysis
 
 > Uncovering digital habits, dependency risks, and device trends across 7,500+ users using Python and Power BI.
 
@@ -176,8 +176,8 @@ jupyter notebook notebooks/EDA.ipynb
 **Satyam Saurabh**
 
 [![Email](https://img.shields.io/badge/Email-satyam2610saurabh%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:satyam2610saurabh@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat&logo=github&logoColor=white)](https://github.com/your-username)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/satyam-saurabh)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat&logo=github&logoColor=white)](https://github.com/i_satyamsaurabh)
 
 ---
 
