@@ -9,6 +9,8 @@
 
 ---
 
+![Project Banner](pictures/1)
+
 ## 📌 Overview
 
 This end-to-end data analysis project explores mobile usage patterns, digital well-being risks, and device performance across a dataset of **7,500 user records**. It combines Python-based exploratory data analysis (EDA) with an interactive 4-page Power BI dashboard to surface actionable insights.
@@ -54,6 +56,16 @@ This end-to-end data analysis project explores mobile usage patterns, digital we
 | Excel | Data review and cross-validation |
 
 ---
+## 📊 Dashboard Previews
+
+### Sales Analysis Dashboard
+![Executive Dashboard](pictures/2)
+
+### Customer Insights
+![Customer Insights](pictures/3)
+
+### Product Performance
+![Product Performance](pictures/4)
 
 ## ⚙️ Methodology
 
