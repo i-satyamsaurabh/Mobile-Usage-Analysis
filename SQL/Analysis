@@ -181,3 +181,4 @@ FROM mobile_usage_data
 GROUP BY age_group, behaviour_category, primary_use
 ORDER BY age_group, total_users DESC;
 
+
